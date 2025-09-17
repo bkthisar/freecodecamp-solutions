@@ -16,6 +16,7 @@ In this [**Responsive Web Design**](https://www.freecodecamp.org/learn/2022/resp
 
 | Name | Description | Directory |
 | ---- | ----------- | --------- |
+| [**Learn HTML by Building a Cat Photo App**](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1) | HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage. | [Open](./resources/documents/01-responsive-web-design/01-learn-html-by-building-a-cat-photo-app/) |
 
 You can see all the [Responsive Web Design solutions](./resources/documents/01-responsive-web-design/responsive-web-design.md) here.
 
