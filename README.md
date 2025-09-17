@@ -20,3 +20,5 @@ In this [**Responsive Web Design**](https://www.freecodecamp.org/learn/2022/resp
 You can see all the [Responsive Web Design solutions](./resources/documents/01-responsive-web-design/responsive-web-design.md) here.
 
 ---
+
+🙏 **Thank you, freeCodeCamp**, for being an excellent and free platform for learning to code! The easy-to-understand curriculum and hands-on projects have immensely helped me develop my skills and confidence as a developer.

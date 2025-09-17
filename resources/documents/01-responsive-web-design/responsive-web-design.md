@@ -6,3 +6,5 @@ In this [**Responsive Web Design**](https://www.freecodecamp.org/learn/2022/resp
 | ---- | ----------- | --------- |
 
 ---
+
+🙏 **Thank you, freeCodeCamp**, for being an excellent and free platform for learning to code! The easy-to-understand curriculum and hands-on projects have immensely helped me develop my skills and confidence as a developer.
